@@ -77,6 +77,13 @@ File used:
 
 ---
 
+## Presentation
+
+The full presentation is available here:  
+[Download Slides](reports/FinTech_Customer_Analytics_Portfolio.pdf)
+
+---
+
 ## Repository Structure
 
 ```text
@@ -95,4 +102,5 @@ File used:
 └─ README.md
 
 ---
+
 
